@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Fri, 04 Feb 2000 21:03:38 GMT
+Server: Apache/1.3.9 (UNIX) PHP/4.0b3
+Set-Cookie: name = xyz; expires = Friday, 04-Feb-07 22:03:38 GMT; 
+   path = /; domain = tutorialspoint.com
+Connection: close
+Content-Type: text/html
